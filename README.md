@@ -5,8 +5,7 @@ A web-based security project that demonstrates **SQL Injection Protection** and 
 ---
 
 ## 🚀 Live Demo
-🔗 [Click here to view the project](https://div1813.github.io/CODEALPHA_DATALEAKDETECTION/)
-
+🔗https://div1813.github.io/CODEALPHA_DATALEAKDETECTION/
 ---
 
 ## 📌 Features
